@@ -1,1 +1,8 @@
-
+.cit{
+color: crimson;
+}
+#greco{
+  background-image: url("imagens/greek.webp") ;
+background-repeat: no-repeat;
+background-size: cover ;
+}
