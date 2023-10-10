@@ -1,0 +1,23 @@
+
+tr:hover {
+  background-color: grey;
+  color: white;
+}
+table {
+    border-collapse: collapse;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: auto;
+}
+th {
+    background-color: red;
+    color: white;
+      text-align: left;
+}
